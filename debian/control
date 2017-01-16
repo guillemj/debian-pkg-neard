@@ -15,6 +15,7 @@ Build-Depends:
  libnl-genl-3-dev (>= 3.2),
  pkg-config,
  python,
+ systemd,
 
 Package: neard
 Architecture: linux-any

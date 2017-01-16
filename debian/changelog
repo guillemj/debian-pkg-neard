@@ -8,6 +8,7 @@ neard (0.15-0.1) unstable; urgency=medium
   * Fixup neard.pc file to correct pkglibdir variable.
   * Use autotools-dev dh sequence to update config.* scripts.
   * Wrap and sort debian/control fields.
+  * Add systemd to Build-Depends, needed for systemd.pc.
 
  -- Guillem Jover <guillem@debian.org>  Mon, 08 Feb 2016 22:15:05 +0100
 
