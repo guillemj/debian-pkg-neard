@@ -23,6 +23,7 @@ Architecture: linux-any
 Depends:
  ${misc:Depends},
  ${shlibs:Depends},
+ lsb-base,
  dbus,
  kmod,
 Recommends: bluez
