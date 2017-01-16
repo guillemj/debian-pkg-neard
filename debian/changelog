@@ -4,7 +4,7 @@ neard (0.15-0.1) unstable; urgency=medium
   * New upstream release. Update to 0.15. (Closes: #760703)
   * Switch debian/copyright to the machine readable format.
   * Add a debian/watch file.
-  * Bump Standards-Version to 3.9.7.
+  * Bump Standards-Version to 3.9.8.
   * Fixup neard.pc file to correct pkglibdir variable.
   * Use autotools-dev dh sequence to update config.* scripts.
 
