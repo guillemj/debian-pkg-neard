@@ -9,6 +9,7 @@ neard (0.15-0.1) unstable; urgency=medium
   * Use autotools-dev dh sequence to update config.* scripts.
   * Wrap and sort debian/control fields.
   * Add systemd to Build-Depends, needed for systemd.pc.
+  * Add dh-python to Build-Depends.
 
  -- Guillem Jover <guillem@debian.org>  Mon, 08 Feb 2016 22:15:05 +0100
 
