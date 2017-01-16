@@ -12,7 +12,7 @@ neard (0.15-0.1) unstable; urgency=medium
   * Add dh-python to Build-Depends.
   * Add lsb-base to neard Depends.
 
- -- Guillem Jover <guillem@debian.org>  Mon, 08 Feb 2016 22:15:05 +0100
+ -- Guillem Jover <guillem@debian.org>  Mon, 16 Jan 2017 09:23:34 +0100
 
 neard (0.11-1) unstable; urgency=low
 
