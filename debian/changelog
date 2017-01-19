@@ -1,3 +1,10 @@
+neard (0.16-0.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * New upstream release. Update to 0.16.
+
+ -- Guillem Jover <guillem@debian.org>  Thu, 19 Jan 2017 03:24:08 +0100
+
 neard (0.15-0.1) unstable; urgency=medium
 
   * Non-maintainer upload, with maintainer permission.
